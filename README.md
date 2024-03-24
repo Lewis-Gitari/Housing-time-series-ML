@@ -1,14 +1,14 @@
-![Header Image](./Images/house.png)
+![House image](https://www.thepinnaclelist.com/wp-content/uploads/2015/08/23-Modern-Luxury-OZ-Residence-92-Sutherland-Drive-Atherton-CA-USA-1024x469.jpg)
 
 # House Price Forecasting using Zillow Housing dataset
 
 **Authors:** 
 
-[Clara Gatambia](https://github.com/claragatambia)
-[Rhoda Musyoki](https://github.com/Rhod-sy/)
-[Lewis Gitari](https://github.com/GitariLewis)
-[Esther Nyaikuba](https://github.com/Esther-nyaikuba)
-[Mark Kuria](https://github.com/kuriamark)
+1. [Clara Gatambia](https://github.com/claragatambia)
+2. [Rhoda Musyoki](https://github.com/Rhod-sy/)
+3. [Lewis Gitari](https://github.com/GitariLewis)
+4. [Esther Nyaikuba](https://github.com/Esther-nyaikuba)
+5. [Mark Kuria](https://github.com/kuriamark)
 
 
 ## Overview
@@ -92,21 +92,18 @@ Workflow:
 4. The metropolitan areas showing higher growth rates are Gleenwood Springs at 200% followed by Brunswick and Panama at 225% and 75% respectively. The ZipCodes with high growth rates are 27980(2.5%), 30032(2%), 80216(1.75%) and 89030(1.5%).
 
 The following are therefore the top 5 best ZipCodes to invest in:
-** 
+
 - 10021 (NewYork)
 - 10011 (NewYork)
 - 10014 (NewYork)
 - 90210 (Beverly Hills)
-- 94027 (Atherton) **
+- 94027 (Atherton)
 
 
 ## What Next?
 
 The Amazon Forecast API can be utilized to forecast ROI and assess its performance against ARIMA and Prophet. This will help determine if it provides superior forecasting results.
 
-## For More Information
-
-See the full analysis in the [Project Jupyter Notebook](./Zillow_housing_ML_project final.ipynb) 
 
 ## Repository Structure
 
